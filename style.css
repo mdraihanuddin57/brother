@@ -2,6 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     padding: 0px;
     margin: 0px;
+    background-color: bisque;
 }
 .first-section{
     display: flex;
@@ -56,4 +57,39 @@ p{
 }
 .half-side p{
     padding-right: 30px;
+}
+.dream{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: ;
+    padding: 5px 15px;
+    border-radius: 10px;
+    background-image: linear-gradient(red, orange);
+}
+.achievement{
+    width: 33%;
+    height: auto;
+    padding: 20px  30px;
+    border: solid 1px whitesmoke;
+    border-radius: 100px;
+    
+}
+.last-section{
+    padding-top: 50px;
+}
+.last-section h1{
+    padding-left: 80px;
+    
+    text-align: center;
+}
+.achievement:hover{
+    color: chocolate;
+    background-color: black;
+    cursor: pointer;
+    transition: 0.8s;
+
+}
+footer h3{
+    text-align: center;
+    
 }
