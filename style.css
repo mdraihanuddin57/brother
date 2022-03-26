@@ -44,3 +44,16 @@ p{
 .first-section h3{
     font-style: italic;
 }
+#tour-pic{
+    width: 100%;
+    height: auto;
+    padding-right: 30px;
+    border-radius: 200px;
+    padding-top: 50px;
+}
+.second-part{
+    padding-top: 100px;
+}
+.half-side p{
+    padding-right: 30px;
+}
